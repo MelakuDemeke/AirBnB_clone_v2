@@ -5,3 +5,4 @@ main*.py
 fabfile.py
 versions
 filet
+.env
