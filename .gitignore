@@ -6,3 +6,4 @@ fabfile.py
 versions
 filet
 .env
+*-dump.sql
